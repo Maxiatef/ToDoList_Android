@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Do It</string>
+    <string name="save">حفظ</string>
+    <string name="new_task">مهمة جديدة</string>
+    <string name="tasks">مهام</string>
+</resources>
